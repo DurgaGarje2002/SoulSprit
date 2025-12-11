@@ -1,0 +1,19 @@
+# Maven target directory
+/target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+.metadata/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
