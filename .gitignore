@@ -17,3 +17,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+src/main/java/com/soulsprit/servlet/
+
