@@ -18,5 +18,5 @@ Thumbs.db
 *.tmp
 *.bak
 
-src/main/java/com/soulsprit/servlet/
-
+# Sensitive servlet file (contains SMTP App Password)
+src/main/java/com/soulsprit/servlet/SendFeedbackReplyServlet.java
